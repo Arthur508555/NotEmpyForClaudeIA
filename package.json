@@ -1,0 +1,19 @@
+{
+  "name": "obf-cc-lua-luau-web",
+  "version": "1.0.0",
+  "description": "Ofuscador web modular para Lua/Luau com pipeline validada e runtime VM customizado.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node tests/smoke.js"
+  },
+  "keywords": [
+    "lua",
+    "luau",
+    "obfuscator",
+    "vm",
+    "base85"
+  ],
+  "author": "",
+  "license": "MIT"
+}
